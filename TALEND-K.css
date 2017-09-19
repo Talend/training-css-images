@@ -196,3 +196,7 @@ a.enabledTopMenuItem:hover {
 }
 
 /*# sourceMappingURL=legacy-min.css.map */
+/*TALEND*/
+#menuPreviousText {
+    display:none;
+}
