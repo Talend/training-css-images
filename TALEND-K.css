@@ -208,3 +208,7 @@ a.enabledTopMenuItem:hover {
 #next {
     display:none;
 }
+
+#loadingText {
+    font-size:50px;
+}
