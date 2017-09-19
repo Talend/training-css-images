@@ -1,0 +1,198 @@
+/*! Engine-Player 1.0.0 2017-07-31T16:33:14-0500 424803c4e1a453c2f607746b4bc5446097c8fc0b */
+#topBody {
+    font-size: 10pt;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background: #354E67;
+}
+
+#tt_top_navMenu {
+    position: absolute;
+    bottom: 0;
+    width: 98%
+}
+
+#top_title {
+    font-size: 14px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #BBBBBB;
+    font-weight: bold;
+    position: absolute;
+    top: 19px;
+    left: 20px
+}
+
+#top_credit a {
+    visibility: hidden;
+    font-size: 14px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #284565;
+    font-weight: 100;
+    position: absolute;
+    top: 19px;
+    right: 50px;
+    text-decoration: none;
+    cursor: pointer
+}
+
+#top_credit a:hover {
+    text-decoration: none
+}
+
+.ProgressBar {
+    height: 100%;
+    text-align: right
+}
+
+.progressText {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 10px;
+    font-variant: small-caps;
+    color: #C68D04;
+    font-weight: bold;
+    border: 0 solid #CCCCCC;
+    border-left: 0;
+    border-right: 0
+}
+
+.progressXImage {
+    border-top: #666666 1px solid;
+    border-left: #666666 1px solid;
+    border-bottom: #666666 1px solid
+}
+
+.progressYImage {
+    border-top: #666666 1px solid;
+    border-right: #666666 1px solid;
+    border-bottom: #666666 1px solid
+}
+
+.enabledTopMenuItem {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 10px;
+    font-variant: small-caps;
+    color: #C68D04;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: hand;
+    cursor: pointer
+}
+
+a.enabledTopMenuItem:hover {
+    color: #BBBBBB;
+    text-decoration: none
+}
+
+.disabledTopMenuItem {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 10px;
+    font-variant: small-caps;
+    color: #000000
+}
+
+/*# sourceMappingURL=legacy-min.css.map */
+#left_body {
+    background: #354E67;
+    font-size: 10pt;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#MenuPlaceHolder {
+    position: relative;
+    top: 10px
+}
+
+.menulink {
+    font-size: 12px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.enabledMenulink {
+    font-size: 12px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: underline;
+    color: #BBBBBB
+}
+
+.disabledMenulink {
+    font-size: 12px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: #BBBBBB
+}
+
+.activeMenulink, .activeMenulinkDisabled {
+    font-size: 12px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: underline;
+    color: #BBBBBB;
+    font-weight: bold
+}
+
+.activeMenulinkDisabled {
+    text-decoration: none
+}
+
+/*# sourceMappingURL=legacy-min.css.map */
+#exit_dialog_body {
+    margin: 0;
+    background-color: #E0EAF1;
+    padding-top: 5px;
+    font-size: 10pt;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.enabledTopMenuItem {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 10px;
+    font-variant: small-caps;
+    color: #C68D04;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: hand;
+    cursor: pointer
+}
+
+a.enabledTopMenuItem:hover {
+    color: #BBBBBB;
+    text-decoration: none
+}
+
+#exit_dialog_div {
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    width: 100%
+}
+
+.exit_dialog_btn {
+    background-color: #0A1936;
+    font-size: 12px;
+    width: 100px;
+    height: 25px;
+    padding-top: 5px;
+    text-align: center;
+    vertical-align: middle;
+    position: absolute;
+    top: 35px
+}
+
+#exit_dialog_suspend {
+    left: 30%
+}
+
+#exit_dialog_exit {
+    left: 60%
+}
+
+#exit_dialog_cancel {
+    position: absolute;
+    top: 35px;
+    right: 25px;
+    color: #C68D04;
+    font-size: 90%;
+    cursor: hand;
+    cursor: pointer;
+    font-weight: bold
+}
+
+/*# sourceMappingURL=legacy-min.css.map */
