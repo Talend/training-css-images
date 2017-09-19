@@ -200,3 +200,11 @@ a.enabledTopMenuItem:hover {
 #menuPreviousText {
     display:none;
 }
+
+#previous {
+    display:none;
+}
+
+#next {
+    display:none;
+}
